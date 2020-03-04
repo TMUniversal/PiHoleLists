@@ -1,18 +1,3 @@
-# GOODBYE ADS
-#
-# Goodbye Ads is Specially Designed for Mobile Ad Protection.
-#
-# Github : https://github.com/jerryn70/GoodbyeAds
-# Telegram : https://t.me/GoodbyeAds
-# XDA : https://forum.xda-developers.com/android/software-hacking/goodbye-ads-advanced-protection-ads-ad-t3827269
-#
-# Type : GoodbyeAds Stable
-# Updated On:25-02-2020 
-# Created by:Jerryn70 (XDA Senior Member)
-#
-# Adapted for PiHole by TMUniversal
-#
-# Starting..
 p256304.clksite.com
 beabsolom.com
 pl3980.puserving.com
